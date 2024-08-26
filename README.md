@@ -1,4 +1,4 @@
-Entrega Pacial do Projeto Final
+Entrega Parcial do Projeto Final
 
 - Criação de Alerta de Erro
 Nesta etapa, o objetivo é garantir que o código seja capaz de detectar e lidar com erros que possam ocorrer durante a execução.
