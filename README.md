@@ -21,6 +21,10 @@ O objetivo deste projeto é buscar informações de três fontes diferentes:
 
 Esses dados são então processados e salvos em um banco de dados SQLite para posterior análise.
 
+## Criação de Alerta de Erro
+
+Nesta etapa, o objetivo é garantir que o código seja capaz de detectar e lidar com erros que possam ocorrer durante a execução. Um exemplo comum é a tentativa de acessar uma API ou abrir um arquivo, onde podem ocorrer problemas como falha na conexão ou ausência do arquivo.
+
 ## Requisitos
 
 Certifique-se de ter as seguintes bibliotecas instaladas:
